@@ -3,5 +3,4 @@ ligne1
 ligne3
 
 ligne de branche1
-
 ligne ajoutée dans master

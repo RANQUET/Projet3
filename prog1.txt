@@ -2,14 +2,8 @@ ligne1
 
 ligne3
 
-ligne de branche1
+
 autre ligne de branche1
-autre ligne de branche1
-
-modif 1 pour rebase 
-
-
+ligne ajoutée partoutmodif 1 pour rebase 
 modif 2 pour rebase
-
-
 modif 3 rebase

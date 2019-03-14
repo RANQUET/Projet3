@@ -2,6 +2,8 @@ ligne1
 
 ligne3
 
+ligne de branche1
+autre ligne de branche1
 
 autre ligne de branche1
 ligne ajoutée partoutmodif 1 pour rebase 
